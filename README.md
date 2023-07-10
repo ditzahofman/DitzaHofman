@@ -1,4 +1,4 @@
-### Hi I am DITZA HOFMAN 👋
+### Hi I AM DITZA HOFMAN 
 <h2 align="center">I'm a fullstack software developer 🖥️</h2>
 <h2 align="center">Welcome to my GitHub profile... </h2>
 </br>
